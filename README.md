@@ -1,5 +1,4 @@
 # DIUS Checkout Sytem
---------------------
 Dius is starting a computer store with a *brand new* checkout system. This checkout system can *scan items* in any order, validates the items if *exist in the catalogue*, applies any *pricing rules*, and then returns the *total amount* to be paid.
 
 In this **DIUSCheckoutSystem** java project, I have implemented a solution for the coding exercise problem relating to checkout system. Also, the project comes with a *test classes* and *simple application* to test and verify the solution to the problem.
@@ -33,7 +32,7 @@ Additionally, the pricing rule implementation classes have their own unit test c
 
 ### Running the Application
 --------------------
-- Alternatively, the project shipped with a very simple application where the scenarios listed in the coding exercise problem have been tested and results are displayed in the console screen. The application doesn't accept any parameters, so simply run the DiusCheckoutSystemApp using java command in console, or in java IDE of your choice.
+Alternatively, the project shipped with a very simple application where the scenarios listed in the coding exercise problem have been tested and results are displayed in the console screen. The application doesn't accept any parameters, so simply run the DiusCheckoutSystemApp using java command in console, or in java IDE of your choice.
 ```sh
 java au.com.dius.shop.app.DiusCheckoutSystemApp
 ```
