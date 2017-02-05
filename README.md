@@ -5,12 +5,14 @@ In this **DIUSCheckoutSystem** java project, I have implemented a solution for t
 
 Click here **[dius_shopping_coding.md](https://gist.github.com/codingricky/2913880)** to see the full description of the coding exercise problem.
 
-### System Requirement
+### Systems Requirement
 --------------------
 In order to compile and run the test classes and the application, this java project requires.
 
 * [Java Runtime Environment 8](https://docs.oracle.com/javase/8/docs/technotes/guides/install/install_overview.html)
-<br/>This comes with the latest version Java8 APIs that used in the project
+<br/>This comes with the latest Java8 that used in the project
+* JUnit 4
+<br/>The test classes in the project are written in JUnit 4
 
 ### Unit Testing
 --------------------
