@@ -6,18 +6,11 @@ import static org.junit.Assert.assertNull;
 
 import java.io.IOException;
 
-import org.junit.Before;
 import org.junit.Test;
 
 public class CatalogueTest {
 
 	private Catalogue catalogue = new Catalogue();
-
-	@Before
-	public void setup() {
-		// Given
-		catalogue = new Catalogue();
-	}
 
 	@Test
 	public void testEmptyCatalogue() {
