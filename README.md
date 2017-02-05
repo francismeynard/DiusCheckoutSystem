@@ -10,9 +10,10 @@ Click here **[dius_shopping_coding.md](https://gist.github.com/codingricky/29138
 In order to compile and run the test classes and the application, this java project requires.
 
 * [Java Runtime Environment 8](https://docs.oracle.com/javase/8/docs/technotes/guides/install/install_overview.html)
-<br/>This comes with the latest Java8 APIs that used in the project
+<br/>- This comes with the latest Java8 APIs that used in the project
+
 * JUnit 4
-<br/>The test classes in the project are written in JUnit 4
+<br/>- The test classes in the project are written in JUnit 4
 
 ### Unit Testing
 --------------------
