@@ -30,7 +30,7 @@ public class CheckoutTest {
 	}
 
 	@Test
-	public void testScanGivenInvalidIems() {
+	public void testScanGivenInvalidItems() {
 		// Given
 		Checkout checkout = new Checkout(new ArrayList<>());
 
